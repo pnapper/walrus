@@ -1,0 +1,42 @@
+#walrus-showing {
+  display: none;
+}
+#walrus-hidden {
+  display:block;
+}
+#walrus-big {
+  display: none;
+}
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
+.size {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.size:hover {
+  text-decoration: underline;
+}
+.green-background {
+  background-color: green;
+}
+.yellow-background {
+  background-color: yellow;
+}
+
+.red-background {
+  background-color: red;
+}
+.blue-border {
+  background-color: blue;
+  border-color:yellow;
+  margin:10px;
+  padding:10px;
+  color:white;
+}
